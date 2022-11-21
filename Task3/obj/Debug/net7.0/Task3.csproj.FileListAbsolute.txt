@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\bin\Debug\net7.0\Task3.exe
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\bin\Debug\net7.0\Task3.dll
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\bin\Debug\net7.0\Task3.pdb
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.dll
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.pdb
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\My_files\git\lesson_1015\c#\seminar21112022\Task3\obj\Debug\net7.0\ref\Task3.dll
